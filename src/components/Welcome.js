@@ -25,4 +25,4 @@ const googleSignIn = () => {
   );
 };
 
-export default Welcome;
+export default googleSignIn;
